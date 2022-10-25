@@ -4,6 +4,7 @@ import Home from './components/Home';
 import Navbar from './components/Navbar';
 import Offer from './components/Offer';
 import Services from './components/Services';
+import Tours from './components/Tours';
 
 const App = () => {
   return (
@@ -13,6 +14,7 @@ const App = () => {
       <Services />
       <Destination />
       <Offer />
+      <Tours />
     </>
   );
 };
