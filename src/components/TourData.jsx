@@ -1,6 +1,6 @@
 import tour1 from '../assets/tour1.png';
 import tour2 from '../assets/tour2.png';
-import tour3 from '../assets/tour3.png3';
+import tour3 from '../assets/tour3.png';
 
 const TourData = [
   {
