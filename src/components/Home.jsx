@@ -114,4 +114,29 @@ const Section = styled.section`
       }
     }
   }
+  @media screen and (min-width: 280px) and (max-width: 1080px) {
+    .background {
+      img {
+        height: 40vh;
+      }
+    }
+    .content {
+      .info {
+        margin-left: 2rem;
+        h1 {
+          font-size: 2rem;
+          margin-bottom: 1rem;
+        }
+      }
+    }
+    .planner {
+      /* display: none; */
+      position: initial;
+      margin: 2rem;
+      form {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+    }
+  }
 `;

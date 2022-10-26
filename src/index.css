@@ -29,3 +29,9 @@ body {
   --secondaryText: #a79997;
   --defaultTransition: 0.5s ease-in-out;
 }
+
+@media screen and (min-width: 280px) and (max-width: 1080px) {
+  body {
+    margin: 0 !important;
+  }
+}
