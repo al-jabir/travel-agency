@@ -1,0 +1,7 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "rifi2k.format-html-in-php",
+    "esbenp.prettier-vscode"
+  ]
+}
